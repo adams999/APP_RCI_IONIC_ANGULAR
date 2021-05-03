@@ -1,0 +1,8 @@
+{
+  "name": "RCI",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
